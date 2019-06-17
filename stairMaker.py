@@ -1,7 +1,4 @@
-from maya import cmds
-import stairCreator as stair
 """
-
 The Stair Maker 3000
 By Chase Miller
 
@@ -12,9 +9,10 @@ Instructions:
     reload(stairMaker)
     stairMaker.StairUI().show()
 3. Highlight, then middle mouse drag code to shelf
-
 """
 
+from maya import cmds
+import stairCreator as stair
 
 class BaseWindow(object):
     windowName = "BaseWindow"
