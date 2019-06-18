@@ -10,7 +10,7 @@ By Chase Miller
 
 
 ![](pics/tool.JPG)
-How it's genrated.
+How it's generated.
 
 
 ![](pics/building.jpg)
