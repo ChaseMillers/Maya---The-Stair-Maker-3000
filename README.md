@@ -1,9 +1,8 @@
 # Stone-Stair-Maker
-By Chase Miller
-A stair maker tool for Maya
-Choose any given parameters and genrate a stair case. 
 
-Install Instructions are on python file.
+A stair maker tool for Maya
+
+By Chase Miller
 
 
 ![](pics/tool.JPG)
