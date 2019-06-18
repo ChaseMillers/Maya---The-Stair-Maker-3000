@@ -1,14 +1,11 @@
 # Stone-Stair-Maker
-A stair maker tool for Maya
 By Chase Miller
+A stair maker tool for Maya
+Choose any given parameters and genrate a stair case. 
 
-Install Instructions: 
-1. *Windows- Place script file in: C:\Users\NAME\Documents\maya\2019\scripts
-2. copy paste into python console
-    import stairMaker
-    reload(stairMaker)
-    stairMaker.StairUI().show()
+Install Instructions are on python file.
 
-3. Highlight, then middle mouse drag code to maya shelf.
 
 ![](pics/tool.JPG)
+How it's genrated.
+![](pics/building.JPG)
