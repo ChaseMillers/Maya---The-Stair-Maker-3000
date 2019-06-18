@@ -4,7 +4,7 @@ By Chase Miller
 
 Install Instructions: 
 1. *Windows- Place script file in: C:\Users\NAME\Documents\maya\2019\scripts
-2. copy paste into python console -
+2. copy paste into python console
     import stairMaker
     reload(stairMaker)
     stairMaker.StairUI().show()
