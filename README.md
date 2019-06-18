@@ -9,5 +9,5 @@ By Chase Miller
 How it's genrated.
 
 
-![](pics/building.JPG)
+![](pics/building.jpg)
 
