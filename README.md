@@ -10,7 +10,7 @@ By Chase Miller
 
 
 ![](pics/tool.JPG)
-How it's generated.
+# How it's generated.
  - NOTE - Maya uses centimeters for units of measurement.
  - Step 1 - A pollyplane grid is created based on the user's selected width and length. 
  - Step 2 - The pollyplane is extruded by users selected height.
